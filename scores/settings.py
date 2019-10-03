@@ -29,7 +29,7 @@ SECRET_KEY = '-6-g$*9oxj$*69r@*e8$qtidj6yzkd#1j34(#^pn!m$x2v^#7i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.0.50','localhost','api.appem.co']
+ALLOWED_HOSTS = []
 
 
 # Application definition
