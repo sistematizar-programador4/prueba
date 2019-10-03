@@ -1,0 +1,6 @@
+django>=2.2
+djangorestframework>=3.10
+psycopg2
+dj_database_url
+gunicorn
+django-heroku
